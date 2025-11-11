@@ -8,12 +8,12 @@ body {
   font-weight: 800;
 }
 
-.small-para {
+.para.small-para {
   font-size: 14px;
   font-weight: 800;
 }
 
-p {
+.para {
   font-size: 22px;
 }
 
@@ -29,13 +29,13 @@ p {
   font-size: 20px;
 }
 
-.child {
+.text .child {
   color: rgb(0, 0, 0);
   font-weight: 800;
   font-size: 14px;
 }
 
-div {
+div.text {
   color: rgb(0, 0, 0);
   font-size: 22px;
   font-weight: 100;
